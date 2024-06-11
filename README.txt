@@ -6,7 +6,7 @@ Description:
 This script decrypts an encrypted file using the Fernet encryption scheme.
 
 Usage:
-1. Make sure you have the appropriate encryption key file (`encryption_key.key`) available.
+1. Make sure you have the appropriate encryption key file available.
 2. Update the `file_path` variable with the name of the file you want to decrypt.
 3. Run the script using Python.
 
